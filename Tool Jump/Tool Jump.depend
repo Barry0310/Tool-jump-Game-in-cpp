@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1526389571 source:c:\documents and settings\admin\桌面\tool jump\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"Player.h"
+	"platform.h"
+	"Menu.h"
+
+1513409088 source:c:\documents and settings\admin\桌面\tool jump\move.cpp
+	<SFML/Graphics.hpp>
+
+1513409088 c:\documents and settings\admin\桌面\tool jump\move.h
+
+1514083444 c:\documents and settings\admin\桌面\tool jump\position.h
+
+1526385910 source:c:\documents and settings\admin\桌面\tool jump\position.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1514473044 source:f:\tool jump\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"Player.h"
+	"platform.h"
+
+1514083444 f:\tool jump\position.h
+
+1514472624 source:f:\tool jump\position.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1514515387 source:c:\users\csie\desktop\tool jump\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"Player.h"
+	"platform.h"
+
+1514083444 c:\users\csie\desktop\tool jump\position.h
+
+1514514115 source:c:\users\csie\desktop\tool jump\position.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1514051844 c:\documents and settings\admin\桌面\tool jump\include\play.h
+	<SFML/Graphics.hpp>
+
+1514472478 source:c:\documents and settings\admin\桌面\tool jump\src\play.cpp
+	"play.h"
+	<math.h>
+
+1526298753 c:\documents and settings\admin\桌面\tool jump\include\player.h
+	<SFML/Graphics.hpp>
+	"play.h"
+	"collision.h"
+
+1526389642 source:c:\documents and settings\admin\桌面\tool jump\src\player.cpp
+	"Player.h"
+	"../position.h"
+	<math.h>
+
+1513695501 c:\documents and settings\admin\桌面\tool jump\include\position.h
+
+1514472738 f:\tool jump\include\player.h
+	<SFML/Graphics.hpp>
+	"play.h"
+	"collision.h"
+
+1514051844 f:\tool jump\include\play.h
+	<SFML/Graphics.hpp>
+
+1514118994 source:f:\tool jump\src\collision.cpp
+	"collision.h"
+	<math.h>
+
+1514038750 f:\tool jump\include\collision.h
+	<SFML/Graphics.hpp>
+
+1514472478 source:f:\tool jump\src\play.cpp
+	"play.h"
+	<math.h>
+
+1514382774 source:f:\tool jump\src\player.cpp
+	"Player.h"
+	"../position.h"
+	<math.h>
+
+1513756016 source:c:\users\user\desktop\tool jump\main.cpp
+	<SFML/Graphics.hpp>
+	<stdlib.h>
+	<time.h>
+	"Player.h"
+
+1513755760 c:\users\user\desktop\tool jump\include\player.h
+	<SFML/Graphics.hpp>
+	"play.h"
+
+1513695502 c:\users\user\desktop\tool jump\include\play.h
+	<SFML/Graphics.hpp>
+
+1513755760 source:c:\users\user\desktop\tool jump\position.cpp
+	<SFML/Graphics.hpp>
+
+1513745354 source:c:\users\user\desktop\tool jump\src\collision.cpp
+	"collision.h"
+	<math.h>
+
+1513745244 c:\users\user\desktop\tool jump\include\collision.h
+	<SFML/Graphics.hpp>
+
+1513694238 source:c:\users\user\desktop\tool jump\src\play.cpp
+	"play.h"
+	<math.h>
+
+1513745244 source:c:\users\user\desktop\tool jump\src\player.cpp
+	"Player.h"
+	"../position.h"
+
+1513695502 c:\users\user\desktop\tool jump\position.h
+
+1514515104 c:\users\csie\desktop\tool jump\include\player.h
+	<SFML/Graphics.hpp>
+	"play.h"
+	"collision.h"
+
+1514051844 c:\users\csie\desktop\tool jump\include\play.h
+	<SFML/Graphics.hpp>
+
+1514118994 source:c:\users\csie\desktop\tool jump\src\collision.cpp
+	"collision.h"
+	<math.h>
+
+1514038750 c:\users\csie\desktop\tool jump\include\collision.h
+	<SFML/Graphics.hpp>
+
+1514472478 source:c:\users\csie\desktop\tool jump\src\play.cpp
+	"play.h"
+	<math.h>
+
+1514515217 source:c:\users\csie\desktop\tool jump\src\player.cpp
+	"Player.h"
+	"../position.h"
+	<math.h>
+
+1513916458 source:e:\tool jump\main.cpp
+	<SFML/Graphics.hpp>
+	<stdlib.h>
+	<time.h>
+	"Player.h"
+
+1513755762 e:\tool jump\include\player.h
+	<SFML/Graphics.hpp>
+	"play.h"
+
+1513695502 e:\tool jump\include\play.h
+	<SFML/Graphics.hpp>
+
+1513755762 source:e:\tool jump\position.cpp
+	<SFML/Graphics.hpp>
+
+1513756110 source:e:\tool jump\src\collision.cpp
+	"collision.h"
+	<math.h>
+
+1513756110 e:\tool jump\include\collision.h
+	<SFML/Graphics.hpp>
+
+1513694238 source:e:\tool jump\src\play.cpp
+	"play.h"
+	<math.h>
+
+1513745244 source:e:\tool jump\src\player.cpp
+	"Player.h"
+	"../position.h"
+
+1513695502 e:\tool jump\position.h
+
+1514118994 source:c:\documents and settings\admin\桌面\tool jump\src\collision.cpp
+	"collision.h"
+	<math.h>
+
+1514038750 c:\documents and settings\admin\桌面\tool jump\include\collision.h
+	<SFML/Graphics.hpp>
+
+1525080510 source:c:\documents and settings\admin\桌面\tool jump\src\platform.cpp
+	"platform.h"
+	<stdlib.h>
+
+1514393920 c:\documents and settings\admin\桌面\tool jump\include\platform.h
+	<SFML/Graphics.hpp>
+	"collision.h"
+
+1514380388 c:\documents and settings\admin\桌面\tool jump\reset.h
+	<vector>
+
+1514380815 source:c:\documents and settings\admin\桌面\tool jump\reset.cpp
+	<vector>
+	"Player.h"
+	"platform.h"
+
+1525081473 source:c:\documents and settings\admin\桌面\tool jump\src\menu.cpp
+	"Menu.h"
+
+1526827838 c:\documents and settings\admin\桌面\tool jump\include\menu.h
+	<SFML/Graphics.hpp>
+
+1514393920 f:\tool jump\include\platform.h
+	<SFML/Graphics.hpp>
+	"collision.h"
+
+1514381228 source:f:\tool jump\src\menu.cpp
+	"Menu.h"
+
+1514381228 f:\tool jump\include\menu.h
+	<SFML/Graphics.hpp>
+
+1514394066 source:f:\tool jump\src\platform.cpp
+	"platform.h"
+	<stdlib.h>
+
+1514393920 c:\users\csie\desktop\tool jump\include\platform.h
+	<SFML/Graphics.hpp>
+	"collision.h"
+
+1514381228 source:c:\users\csie\desktop\tool jump\src\menu.cpp
+	"Menu.h"
+
+1514381228 c:\users\csie\desktop\tool jump\include\menu.h
+	<SFML/Graphics.hpp>
+
+1514394066 source:c:\users\csie\desktop\tool jump\src\platform.cpp
+	"platform.h"
+	<stdlib.h>
+
+1526392103 source:c:\documents and settings\admin\桌面\tool jump\score.cpp
+
